@@ -1,5 +1,7 @@
 # custom files
-custom/
+# SolomanDavis: UNIGNORE custom/ files so that they are commited
+# to the fork and tracked. Useful for example in a dotfiles submodule.
+# custom/
 
 # temp files directories
 cache/
