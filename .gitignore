@@ -1,7 +1,8 @@
 # custom files
 # SolomanDavis: UNIGNORE custom/ files so that they are commited
 # to the fork and tracked. Useful for example in a dotfiles submodule.
-# custom/
+custom/
+!custom/*.zsh
 
 # temp files directories
 cache/
